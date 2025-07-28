@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+A prototype verification demo during my participation in AdventureX ——— China's largest hackathon in 2025.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -116,9 +116,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
+
+We mainly build it in Keil MDK and Clion.
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -138,7 +139,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Darrenpig/BB8-Remake.git
    ```
 3. Install NPM packages
    ```sh
@@ -150,7 +151,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin github_Darrenpig/BB8-Remake
    git remote -v # confirm the changes
    ```
 
@@ -172,9 +173,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
+- [x] Add BB8 repo
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
+- [ ] Add Additional Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
     - [ ] Chinese
@@ -202,12 +203,11 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+<a href="https://github.com/Darrenpig/BB8-Remake/tree/main/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Darrenpig/BB8-Remake" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -222,9 +222,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+DarrenPig - [@your_github](https://github.com/darrenpig) - 22230635@czu.cn
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://gitee.com/darrenpig/new_energy_coder_club](https://gitee.com/darrenpig/new_energy_coder_club)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
